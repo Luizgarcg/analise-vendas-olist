@@ -33,7 +33,7 @@ Arquivo	Descrição
 consultas_olist.sql	As 8 consultas SQL, comentadas
 desafio 1.xlsx, desafio 3.xlsx, desafio 6.xlsx, desafio 8.xlsx	Resultados e gráficos no Excel
 painel_olist.pbix	Dashboard no Power BI
-dashboard.png	Imagem do dashboard
+dashboard.png.png Imagem do dashboard
 Dados
 
 Os dados vêm do dataset público Brazilian E-Commerce Public Dataset by Olist, disponível no Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
